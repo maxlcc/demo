@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>学生信息git</title>
+<title>学生信息gitnnnnnnnnnnnnnn</title>
 </head>
 <%
 	// 获取请求的上下文
